@@ -19,7 +19,7 @@ public class NewEmptyTestNGTest {
 
     @Test
     public void testClass() {
-        Assert.assertTrue(i == 5);
+        Assert.assertTrue(i == 4);
     }
 
     @Test
